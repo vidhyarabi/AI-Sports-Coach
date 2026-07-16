@@ -4,17 +4,20 @@ AI-powered sports coaching system using MediaPipe Pose, OpenCV, and Python for r
 
 ## Project Overview
 
-AI Sports Coach is a computer vision application developed using Python, OpenCV, and MediaPipe to recognize human body poses and sports-related gestures in real time. The project demonstrates pose estimation, gesture recognition, and interactive user feedback through webcam-based analysis.
+AI Sports Coach is an interactive computer vision application developed using Python, OpenCV, and MediaPipe. The system detects body poses and hand gestures in real time, allowing users to select sports activities, perform movements, and receive automated analysis through webcam-based interaction.
 
 ---
 
 ## Features
 
-- Real-time Pose Detection
-- Gesture Recognition
-- Sports Selection
-- Human Pose Estimation
-- Interactive Webcam Processing
+- Real-time Human Pose Detection
+- Hand Gesture Recognition
+- Sports Selection using Finger Gestures
+- Thumbs-up Confirmation
+- Countdown Before Activity Starts
+- Live Webcam Processing
+- Performance Analysis
+- Interactive User Experience
 
 ---
 
@@ -32,8 +35,8 @@ AI Sports Coach is a computer vision application developed using Python, OpenCV,
 - Computer Vision
 - Pose Estimation
 - Gesture Recognition
-- Real-time Image Processing
 - Human Activity Recognition
+- Real-time Image Processing
 
 ---
 
@@ -45,9 +48,9 @@ AI Sports Coach is a computer vision application developed using Python, OpenCV,
 
 ## Future Improvements
 
-- Convert the notebook into a standalone Python application.
-- Add support for additional sports and exercises.
-- Display real-time performance metrics and scoring.
+- Support additional sports and fitness activities.
+- Add pose correction and coaching feedback.
+- Store workout history and performance reports.
 - Deploy as a desktop or web application.
 
 ---
@@ -57,3 +60,5 @@ AI Sports Coach is a computer vision application developed using Python, OpenCV,
 **Vidhya Rabi**
 
 Aspiring Data Analyst | Machine Learning & AI Enthusiast
+
+**Skills:** Python • OpenCV • MediaPipe • Computer Vision • Machine Learning
